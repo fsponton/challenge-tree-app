@@ -28,7 +28,7 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/tree-app.git
-   cd tree-app
+   cd challenge-tree-app
 2. **Instalar dependencias**:
    ```bash
     npm install 
